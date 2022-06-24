@@ -1,0 +1,26 @@
+[
+    {
+        "title": "BheemlaNayak Title Song",
+        "artist": "Thaman S",
+        "img_src": "images/img1.jpg",
+        "song_src": "songs/song1.mp3"
+    },
+    {
+        "title": "Yemunnave Pilla Full  Song",
+        "artist": "Sid Sriram ",
+        "img_src": "images/img2.jpg",
+        "song_src": "songs/song2.mp3"
+    },
+    {
+        "title": "Eyy Bidda Ye Mera Adda Song",
+        "artist": "DSP",
+        "img_src": "images/img3.jpg",
+        "song_src": "https://firebasestorage.googleapis.com/v0/b/sevenupdown-game.appspot.com/o/pushpa-eyy-bidda-ye-mera-adda-video-allu-arjun-rashmika-mandanna-nakash-a-dsp-sukumar.mp3?alt=media&token=b8626408-657e-41f8-b6f6-e6d96c1b1726"
+    },
+    {
+        "title": "High Rated Gabru Official Song",
+        "artist": "Guru Randhawa",
+        "img_src": "images/img4.jpg",
+        "song_src": "songs/song4.mp3"
+    }
+]
